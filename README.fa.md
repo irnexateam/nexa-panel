@@ -13,7 +13,7 @@
 [![پایگاه‌داده](https://img.shields.io/badge/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%E2%80%8C%D8%AF%D8%A7%D8%AF%D9%87-%D8%AF%DB%8C%E2%80%8C%DB%8C%DA%A9-f48120?style=flat-square)](https://developers.cloudflare.com/d1/)
 [![زبان‌ها](https://img.shields.io/badge/%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D9%88_%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-3c9?style=flat-square)](docs/index.html)
 
-**[🚀 راه‌اندازی نکسا](https://www.irnexateam.workers.dev/deploy/)** · [📚 مستندات](docs/index.html) · [🌐 وب‌سایت](https://www.irnexateam.workers.dev/) · [💻 گیت‌هاب](https://github.com/irnexateam/nexa-panel)
+**[🚀 راه‌اندازی نکسا](https://www.irnexateam.workers.dev/deploy/)** · [📚 مستندات](https://irnexateam.github.io/nexa-panel/) · [🌐 وب‌سایت](https://www.irnexateam.workers.dev/) · [💻 گیت‌هاب](https://github.com/irnexateam/nexa-panel)
 
 [📣 تلگرام](https://t.me/irnexateam) · [▶ یوتیوب](https://www.youtube.com/@irnexateam)
 

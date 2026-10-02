@@ -13,7 +13,7 @@ Manage users, usage, routing and panel operations in one place—without maintai
 [![Database](https://img.shields.io/badge/Database-Cloudflare%20D1-f48120?style=flat-square)](https://developers.cloudflare.com/d1/)
 [![Languages](https://img.shields.io/badge/Languages-English%20%2F%20فارسی-3c9?style=flat-square)](docs/index.html)
 
-**[🚀 Deploy NEXA](https://www.irnexateam.workers.dev/deploy/)** · [📚 Documentation](docs/index.html) · [🌐 Website](https://www.irnexateam.workers.dev/) · [💻 GitHub](https://github.com/irnexateam/nexa-panel)
+**[🚀 Deploy NEXA](https://www.irnexateam.workers.dev/deploy/)** · [📚 Documentation](https://irnexateam.github.io/nexa-panel/) · [🌐 Website](https://www.irnexateam.workers.dev/) · [💻 GitHub](https://github.com/irnexateam/nexa-panel)
 
 [📣 Telegram](https://t.me/irnexateam) · [▶ YouTube](https://www.youtube.com/@irnexateam)
 
